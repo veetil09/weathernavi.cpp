@@ -9,7 +9,9 @@
 #include <iostream>
 
 int main(int argc, const char * argv[]) {
+    using namespace std;
     // insert code here...
-    std::cout << "Hello, World!\n";
+    cout << "Hello, World! unicorn \n";
+    cout << argc << endl;
     return 0;
 }
